@@ -76,6 +76,7 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: 20,
+        fontFamily: 'StarTrack',
         marginVertical: 10
     },
     inputContainer: {
